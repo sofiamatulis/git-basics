@@ -1,6 +1,9 @@
 Hello #TeamJohnny5!
 
-This is a change I want to see on GitHub. 
+This is a change I want to see on GitHub.
 
 
 This is a change I made  on Github.
+
+
+Hello from the cloned project!
